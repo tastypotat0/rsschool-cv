@@ -25,7 +25,11 @@ Beginner level of:
 ---
 
 ## Code Examples:
-
+```
+function multiply(a, b){
+  return a * b;
+}
+```
 ---
 
 ## Education:
